@@ -19,8 +19,8 @@ _deps/
 *.dylib
 *.dll
 *.exe
-bitshield
-bitshield_tests
+/bitshield
+/bitshield_tests
 
 # Object files
 *.o
