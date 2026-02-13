@@ -1,0 +1,49 @@
+# Build directories
+build/
+_build/
+cmake-build-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# Compiled binaries
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+bitshield
+bitshield_tests
+
+# Object files
+*.o
+*.obj
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary test files
+*.tmp
+/tmp/
+*.log
+
+# Test output files (keep teste.txt as it's test data)
+encoded.txt
+out.txt
+hamming_encoded.txt
+hamming_decoded.txt
+test_output.txt
+decoded.txt
+
